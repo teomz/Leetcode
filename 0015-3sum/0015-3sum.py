@@ -3,7 +3,7 @@ class Solution:
         nums.sort()
         output = []
         for i in range(len(nums)):
-            # you can get 0 if all values are positive
+            # you cant get 0 if all values are positive
             if nums[i] > 0:
                 break
             # duplication will be skip 
