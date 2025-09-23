@@ -1,26 +1,15 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        left,right = 0,0
-        k = 1
         prev = nums[0]
-        while right < len(nums):
-            if right < 1:
-                right += 1
-                left += 1
+        idx = 0
+        for i in range(len(nums)):
+            if i>0 and nums[i] == prev:
                 continue
-            if nums[right] == prev:
-                right += 1
-                continue
-            nums[left] = nums[right]
-            prev = nums[left]
-            left += 1
-            right += 1
-            k+= 1
-        return k
             
-
-        # print(nums,k)
-        return k
+            nums[idx] = nums[i]
+            prev = nums[idx]
+            idx += 1
+        return idx
 
                 
         
