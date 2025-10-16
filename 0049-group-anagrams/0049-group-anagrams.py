@@ -11,7 +11,6 @@ class Solution:
             else:
                 hashmap[index] = [i]
         
-        output = list(hashmap.values())
 
-        return output
+        return list(hashmap.values())
         
