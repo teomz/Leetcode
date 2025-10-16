@@ -6,12 +6,14 @@ class Solution:
             if target == 0:                    
                 res.append(curr_list[:])
                 return
+            
             for i in range(index,len(candidates)):
                 if i > index and candidates[i] == candidates[i-1]:
                     continue
+                if target-candidates[i] <0:
+                    break
                 curr_list.append(candidates[i])
-                if target >= 0 :
-                    backtrack(i+1,target-candidates[i],curr_list)
+                backtrack(i+1,target-candidates[i],curr_list)
 
                 curr_list.pop()
 
