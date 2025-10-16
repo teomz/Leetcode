@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/teomz/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/teomz/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/teomz/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/teomz/Leetcode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/teomz/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/teomz/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/teomz/Leetcode/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
