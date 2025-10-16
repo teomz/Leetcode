@@ -8,10 +8,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/teomz/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/teomz/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/teomz/Leetcode/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/teomz/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/teomz/Leetcode/tree/master/0041-first-missing-positive) |
 ## Backtracking
 |  |
 | ------- |
