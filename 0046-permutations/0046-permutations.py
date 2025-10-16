@@ -1,6 +1,7 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         output = []
+        isUsed = [False]* len(nums)
 
         def backtrack(combi):
 
@@ -8,9 +9,11 @@ class Solution:
                 output.append(combi[:])
                 return
 
-            for num in nums:
-                if num not in combi:
-                    backtrack(combi + [num])
+            for i in range(len(nums)):
+                if not isUsed[i]:
+                    isUsed[i] = True
+                    backtrack(combi + [nums[i]])
+                    isUsed[i] = False
 
                 
         
