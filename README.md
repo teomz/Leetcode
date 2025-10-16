@@ -46,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/teomz/Leetcode/tree/master/0049-group-anagrams) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/teomz/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
