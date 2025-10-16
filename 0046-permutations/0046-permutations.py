@@ -6,6 +6,7 @@ class Solution:
 
             if len(combi) == len(nums):
                 output.append(combi[:])
+                return
 
             for num in nums:
                 if num not in combi:
