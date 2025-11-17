@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/teomz/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/teomz/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/teomz/Leetcode/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/teomz/Leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
 ## Database
 |  |
 | ------- |
@@ -55,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/teomz/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/teomz/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/teomz/Leetcode/tree/master/0197-rising-temperature) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
