@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/teomz/Leetcode/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/teomz/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/teomz/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/teomz/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/teomz/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/teomz/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/teomz/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/teomz/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/teomz/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
 ## Sorting
 |  |
@@ -84,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/teomz/Leetcode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/teomz/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
