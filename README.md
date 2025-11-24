@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/teomz/Leetcode/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/teomz/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,12 +32,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/teomz/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/teomz/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/teomz/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/teomz/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/teomz/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/teomz/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/teomz/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
 ## Database
 |  |
 | ------- |
@@ -64,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
