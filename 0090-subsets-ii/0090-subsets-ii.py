@@ -3,8 +3,7 @@ class Solution:
         output = []
         nums.sort()
         def backtrack(start,temp):
-            if temp not in output:
-                output.append(temp[:])
+            output.append(temp[:])
             for i in range(start,len(nums)):
                 if nums[i] == nums[i-1] and i > start:
                     continue
