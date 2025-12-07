@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/teomz/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/teomz/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/teomz/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/teomz/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/teomz/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/teomz/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/teomz/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/teomz/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
