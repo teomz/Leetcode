@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/teomz/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/teomz/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/teomz/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/teomz/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/teomz/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/teomz/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/teomz/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/teomz/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/teomz/Leetcode/tree/master/0139-word-break) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/teomz/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
