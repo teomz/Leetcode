@@ -4,16 +4,14 @@ class Solution:
         temp = []
         def backtrack(l,r,temp):
             if l == 0 and r == 0:
-                output.append(''.join(temp[:]))
+                output.append(''.join(temp))
             
             if l > 0:
-                print(temp)
                 temp.append('(')
                 backtrack(l-1,r,temp)
                 temp.pop()
 
             if l < r:
-                print(temp)
                 temp.append(')')
                 backtrack(l,r-1,temp)
                 temp.pop()
