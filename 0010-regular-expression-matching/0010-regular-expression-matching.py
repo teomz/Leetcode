@@ -19,7 +19,9 @@ class Solution:
         for i in range(m):
             for j in range(n):
                 if p[j] == '*':
+                    # 1 or more repeat
                     doRepeat = match(i,j-1) and dp[i][j+1]
+                    # 0 repeat
                     noRepeat = dp[i+1][j-1]
                     dp[i+1][j+1] = doRepeat or noRepeat 
                     continue
