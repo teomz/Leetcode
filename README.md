@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/teomz/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/teomz/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/teomz/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/teomz/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/teomz/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/teomz/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/teomz/Leetcode/tree/master/0048-rotate-image) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/teomz/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/teomz/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/teomz/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/teomz/Leetcode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/teomz/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/teomz/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/teomz/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/teomz/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/teomz/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/teomz/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/teomz/Leetcode/tree/master/0135-candy) |
 ## Union Find
