@@ -1,20 +1,21 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        n = len(nums)
-        fartest = 0 
-        jump = 0
-        current = 0
+        m = len(nums)
+        dp = [i for i in range(m)]
 
-        for i in range(n-1):
-            fartest = max(fartest, i+nums[i])
-            
-            if current == i:
-                jump +=1
-                current = fartest
-            
-                if current >= n - 1:
-                    break
 
-        return jump
+
+        for i in range(m):
+            for j in range(1, min(nums[i] + 1, m - i)):
+                dp[i + j] = min(dp[i + j], dp[i] + 1)
+
+        return dp[-1]
+        
+        
+
+        
+        
+        
+
 
         
