@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/teomz/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/teomz/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/teomz/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/teomz/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/teomz/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/teomz/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/teomz/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/teomz/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/teomz/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/teomz/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/teomz/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/teomz/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/teomz/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/teomz/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/teomz/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/teomz/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/teomz/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/teomz/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/teomz/Leetcode/tree/master/0135-candy) |
 ## Union Find
