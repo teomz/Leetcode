@@ -4,7 +4,7 @@ class Solution:
         furthest = nums[0] 
 
 
-        for i in range(m):
+        for i in range(1,m):
             if i > furthest:
                 return False
             furthest = max(furthest,i+nums[i]) 
