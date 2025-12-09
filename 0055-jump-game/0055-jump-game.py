@@ -8,9 +8,7 @@ class Solution:
             if i > furthest:
                 return False
             furthest = max(furthest,i+nums[i]) 
-
-            if i+nums[i] >= m -1:
-                return True
+        return True
                     
                 
         
