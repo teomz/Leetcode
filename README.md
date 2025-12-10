@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/teomz/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/teomz/Leetcode/tree/master/0062-unique-paths) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/teomz/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/teomz/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/teomz/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/teomz/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/teomz/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/teomz/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/teomz/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -219,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/teomz/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/teomz/Leetcode/tree/master/0044-wildcard-matching) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/teomz/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
