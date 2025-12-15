@@ -1,33 +1,37 @@
 class Solution:
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
-        def largestRectangleArea(heights: List[int]) -> int:
+        def maxArea(heights):
             heights = heights + [0]
-            stack = [] 
-            max_area = 0
-
+            total = 0
+            stack = []
             for i, h in enumerate(heights):
                 start = i
                 while stack and stack[-1][1] > h:
-                    idx, height = stack.pop()
-                    max_area = max(max_area, height * (i - idx))
+                    idx,height = stack.pop()
+                    total = max(total,(i-idx)*height)
                     start = idx
-                stack.append((start, h))
 
-            return max_area
+                stack.append((start,h))
 
-        cols = len(matrix[0])
-        heights = [0] * cols
-        max_area = 0
 
-        for row in matrix:
-            for i in range(cols):
-                heights[i] = heights[i] + 1 if row[i] == '1' else 0
-            max_area = max(max_area,largestRectangleArea(heights))
+            return total
 
-        
-        return max_area
-                
 
+        m = len(matrix)
+        n = len(matrix[0])
+        dp = [0 for i in matrix[0]]
+        maxRec = 0
+
+        for i in range(m):
+            for j in range(n):
+                if matrix[i][j] == '0':
+                    dp[j] = 0
+                else:
+                    dp[j]+=1
+
+            maxRec = max(maxRec,maxArea(dp))
+
+        return maxRec
 
 
         
