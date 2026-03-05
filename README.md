@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/teomz/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/teomz/Leetcode/tree/master/0062-unique-paths) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/teomz/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/teomz/Leetcode/tree/master/0087-scramble-string) |
 | [0139-word-break](https://github.com/teomz/Leetcode/tree/master/0139-word-break) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/teomz/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/teomz/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
