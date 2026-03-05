@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/teomz/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/teomz/Leetcode/tree/master/0087-scramble-string) |
 | [0139-word-break](https://github.com/teomz/Leetcode/tree/master/0139-word-break) |
+| [1768-merge-strings-alternately](https://github.com/teomz/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/teomz/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/teomz/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/teomz/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/teomz/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
