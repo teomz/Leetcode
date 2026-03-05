@@ -4,10 +4,9 @@ class Solution:
         i = 0
 
         while i < l1:
-            prev = 0 if i-1 < 0 else  flowerbed[i-1]
-            next = 0 if i+1 >= l1 else  flowerbed[i+1]
-            if prev == flowerbed[i] == next == 0:
-                print(i)
+            prev =  i-1 < 0 or  flowerbed[i-1] == 0
+            next =  i+1 >= l1 or  flowerbed[i+1] == 0
+            if prev and flowerbed[i] == 0 and next:
                 flowerbed[i] = 1
                 n-=1
                 i+=2
