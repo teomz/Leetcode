@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/teomz/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/teomz/Leetcode/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/teomz/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/teomz/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/teomz/Leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/teomz/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/teomz/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/teomz/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/teomz/Leetcode/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/teomz/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/teomz/Leetcode/tree/master/0605-can-place-flowers) |
 ## Union Find
 |  |
