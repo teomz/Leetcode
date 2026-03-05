@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/teomz/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/teomz/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/teomz/Leetcode/tree/master/0139-word-break) |
+| [0238-product-of-array-except-self](https://github.com/teomz/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/teomz/Leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/teomz/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -244,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/teomz/Leetcode/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/teomz/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
